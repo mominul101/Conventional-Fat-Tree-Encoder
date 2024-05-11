@@ -1,1 +1,1 @@
-# Conventional-Fat-Tree-Encoder
+In this project, 'Encoder Digital Circuit Design: Conventional Fat Tree Encoder, we leverage Virtuoso Cadence for VLSI to create an innovative digital encoder circuit. This project showcases our expertise in VLSI design and commitment to advancing digital circuitry.
